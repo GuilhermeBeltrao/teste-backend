@@ -11,7 +11,7 @@ Esse teste prático visa avaliar os conhecimentos do candidato a vaga de program
     - Responsabilidade na tomada de decisões.
 
 # Fique tranquilo
-  - Todo e qualquer código desenvolvido nesse teste não será utilizado em quaisquer outros softwares nem comercializados pela AutoGestor.
+  - Todo e qualquer código desenvolvido nesse teste não será utilizado em quaisquer outros softwares nem comercializado.
   - O propósito deste teste é apenas avaliar o conhecimento em programaçao do candidato.
 
 # Vamos lá! A aplicação é...
